@@ -2,5 +2,6 @@ data/
 data/solar/
 data/master_cals/
 data/wl_cals/
+data/p_cygni/
 *.fits
 *.fit
