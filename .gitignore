@@ -1,0 +1,6 @@
+data/
+data/solar/
+data/master_cals/
+data/wl_cals/
+*.fits
+*.fit
